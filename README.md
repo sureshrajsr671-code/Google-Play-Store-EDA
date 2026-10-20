@@ -104,14 +104,11 @@ Built with **6 Top Executive KPI Scorecards (BANs)**, **Right-Hand Parameter Con
 
 ---
 
-## 📁 Repository Structure
+## 6. Repository Structure
 
-```text
-├── Google_PlayStore_Updated_EDA_and_BI_Presentation.pptx   # Full Executive Presentation Deck
-├── notebooks/
-│   └── Google_Play_Store_End_to_End_EDA.ipynb              # Python 3.11 Data Wrangling, OLS & NLP Script
-├── dashboards/
-│   ├── 01_Python_EDA_Visual_Report.png                     # 6-Panel Python Statistical & NLP Report
-│   ├── 02_PowerBI_DAX_Monetization_Matrix.png              # 5-KPI + 4-Chart + 1-Matrix Power BI Dashboard
-│   └── 03_Tableau_Strategic_Quadrant_KPI_Dashboard.png     # 6-KPI + 4-Chart Tableau Visual Analytics
-└── README.md                                               # Project Documentation & Key Insights
+* Google_PlayStore_Updated_EDA_and_BI_Presentation.pptx (Full Executive Presentation Deck)
+* notebooks/Google_Play_Store_End_to_End_EDA.ipynb (Python 3.11 Data Wrangling, OLS & NLP Script)
+* dashboards/01_Python_EDA_Visual_Report.png (6-Panel Python Statistical & NLP Report)
+* dashboards/02_PowerBI_DAX_Monetization_Matrix.png (5-KPI + 4-Chart + 1-Matrix Power BI Dashboard)
+* dashboards/03_Tableau_Strategic_Quadrant_KPI_Dashboard.png (6-KPI + 4-Chart Tableau Visual Analytics)
+* README.md (Project Documentation & Key Insights)
